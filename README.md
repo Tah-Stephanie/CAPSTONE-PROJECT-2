@@ -35,7 +35,7 @@ An automatic relationship was developed by power bi between two fact tables and 
 
 
 Using data modeling techniques a bi-directional crossfilter relationship was developed between the consumer preference fact table and the consumer dimension table. A bi-directional relationship was also created between different tables to link them.
-![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Modified%20model.png) Modified  Model
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Modified%20model%202.png) Modified  Model
 
 The model type is a galaxy schema because we had one dimension table linked to one fact table. The 2 other fact tables did not have any active relationship and were also not useful for our analysis.
 
