@@ -57,7 +57,7 @@ Number of restaurants equal 127
 The average age of all customers equals 27
 
 ### Analysis of cities with the highest rated restaurants
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Higest%20rated%20restaurant%20by%20city.png)
 
 San Luis potosi stands out for having the top-rated restaurant with total ratings of 395
 Cuernavaca ranks second in terms of its highly rated restaurants, boasting an impressive total rating of 57
