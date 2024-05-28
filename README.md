@@ -48,7 +48,7 @@ The 3 slicers are used to filter our report according to age group and city for 
 ## Analysis:
 
 ### Preliminary Data Analysis
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Preliminary%20Data%20analysis.png)
 
 The number of consumers equal 138
 Number of cuisines equal 23
