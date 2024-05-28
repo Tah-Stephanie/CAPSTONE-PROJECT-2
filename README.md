@@ -1,5 +1,5 @@
 # RESTAURANT RATINGS DASHBOARD
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Restaurant%20ratings.png)
 Introduction
 
 This Power BI project is a capstone project which  aims at analysing data collected from different restaurant ratings from unknown restaurants in Mexico. A customer survey was carried out in this city in 2012 to collate information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers. The project report answered all the business questions which will in turn help in drawing out meaningful insight from the restaurant rating dataset which would aid management in making informed decisions to improve performance and profitability. 
