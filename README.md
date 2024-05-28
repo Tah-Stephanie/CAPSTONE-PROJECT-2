@@ -67,7 +67,7 @@ Cuidad victoria ranks third in terms of its highly rated restaurants, boasting a
 Juitepec stands at the bottom of the list for its highly-rated restaurants, with a remarkable overall rating of 9
 
 ### Analysis of the effects of ratings by consumer preferences
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Analysis%20of%20the%20effects%20of%20ratings%20by%20consumer%20preferences.png)
 
 This was obtained using the bi-directional crossfilter relationships developed between the consumer dimension table and the consumer preference and ratings fact tables. This relationship was used to link the consumer preference fact table and the ratings fact table. From this, the overall rating of each preferred cuisine rated by each consumer could be gotten.
 
