@@ -74,7 +74,7 @@ This was obtained using the bi-directional crossfilter relationships developed b
 The visual shows the preferred cuisines of consumers in an ascending manner with Mexican cuisine being the highest preferred cuisine.
 
 ### Analysis of consumer demographics 
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Analysis%20of%20consumer%20demographics.png)
 
 There is  bias in the distribution of customers as most of the customers are found in the city of  San Luis potosi with a total of 92 customers.
 
