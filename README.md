@@ -79,7 +79,7 @@ The visual shows the preferred cuisines of consumers in an ascending manner with
 There is  bias in the distribution of customers as most of the customers are found in the city of  San Luis potosi with a total of 92 customers.
 
 ### Analysis of the demand and supply gaps
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Analysis%20of%20the%20demand%20and%20supply%20gaps.png)
 
 This analysis was done by comparing the different age groups of all customers in the different cities. The different age groups were divided as follows:
 
