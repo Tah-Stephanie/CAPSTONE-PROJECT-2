@@ -31,7 +31,7 @@ Data cleaning
 
 The sourced dataset had 5 tables, With 3 fact tables and two dimension tables.
 An automatic relationship was developed by power bi between two fact tables and two dimension tables.
-![]() Original model
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Original%20model%20with%20automatically%20built%20relationships.png) Original model
 
 
 Using data modeling techniques a bi-directional crossfilter relationship was developed between the consumer preference fact table and the consumer dimension table. A bi-directional relationship was also created between different tables to link them.
