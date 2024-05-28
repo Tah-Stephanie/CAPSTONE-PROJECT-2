@@ -91,11 +91,11 @@ The analysis reveals that the majority of consumers are young adults. These youn
 
 
 ### Analysis of the characteristics to look at when planning to invest in a restaurant
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT-2/blob/main/Analysis%20of%20the%20characteristics%20to%20look%20at%20when%20planning%20to%20invest%20in%20a%20restaurant.png)
 
 This analysis is a result of examining the most popular cuisine in various cities and the number of consumers who have a preference for each cuisine.
 
 It can be seen that the mexican cuisine has the highest number of ratings in the city of San luis potosi which has the highes number of consumers.
 
 # Conclusion
-From the different reports it can be concluded that San Luis Potosi is the city with the higest number of consumers and the most rated cuisine is the Mexican cuisine hence should be a cuisine for many restaurants. 
+From the different reports it can be concluded that San Luis Potosi is the city with the higest number of consumers and restaurants with the most rated cuisine which is the  mexican cuisine . Hence, investing in this city is most preferable. 
